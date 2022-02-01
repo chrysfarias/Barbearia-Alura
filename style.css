@@ -2,8 +2,8 @@ body{
      background:  #CCCCCC
 }
 
-#banner
-{
+#banner{
+
      width: 100%;
 }
 
@@ -24,3 +24,6 @@ em, strong{
      color: red;
 }
  
+.itens{
+     font-style: italic;
+}
