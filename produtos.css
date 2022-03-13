@@ -2,6 +2,7 @@
     background-color:tomato;
 
 }
+
 .caixa{
     position: relative;
     width: 940px;
@@ -25,4 +26,17 @@ nav a{
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
+}
+
+.produtos li{
+    display: inline-block;
+    margin: 85px;
+    
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    
 }
