@@ -44,6 +44,9 @@ nav a{
     vertical-align: top;
     padding: 30px 20x;
     box-sizing: border-box;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px ;
 }
 
 .produtos h2{
