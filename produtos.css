@@ -32,15 +32,18 @@ nav a{
   
     margin: 0 auto;
     width: 940px;
-    padding: 50px 0;
+    padding: 50px 0;  
 }
+
 .produtos li
 {
     display: inline-block;
     text-align: center;
     width: 30%;
+    margin: 0 1.5%;
     vertical-align: top;
-    
+    padding: 30px 20x;
+    box-sizing: border-box;
 }
 
 .produtos h2{
@@ -55,5 +58,6 @@ nav a{
 .produto-preco{
     font-size: 22px;
     font-weight: bold;
+    margin: 10px 0 0;
 }
 
